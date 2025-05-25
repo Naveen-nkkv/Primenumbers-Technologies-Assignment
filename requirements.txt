@@ -1,0 +1,7 @@
+Install this using pip Before Executing the program,
+selenium
+beautifulsoup4
+webdriver-manager
+pandas
+
+Use Jupyter Notebook to run this Program
